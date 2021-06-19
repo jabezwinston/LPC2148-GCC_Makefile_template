@@ -10,6 +10,8 @@
 
 - Run `make PORT=COMx upload` to compile and upload the program.
 
+![Compile and upload](_images/lpc2148_build_upload.gif)
+
 ## Linux
 
 ### Debian based Linux distros (Eg: Ubuntu)
